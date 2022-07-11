@@ -1,0 +1,34 @@
+.headingCompose {
+  margin: 0 30px ;
+  padding: 20px 0 0 100px;
+}
+.form-label {
+  font-size: 25px;
+  font-weight: 900;
+  display: block;
+  padding-block: 10px 10px;
+}
+.form-group {
+  padding: 5px 110px;
+}
+.form-control {
+  box-sizing: border-box;
+  width: 90vw;
+  height: auto;
+  margin-bottom: 10px;
+}
+#publish {
+  margin-left: 110px;
+}
+#publish:hover{
+        background-color: gray; /* Green */
+        color: black;
+        font-weight: 800;
+}
+.mainBody {
+  background-color: floralwhite;
+  height: 90vh;
+}
+.nav {
+  background-color: whitesmoke;
+}
